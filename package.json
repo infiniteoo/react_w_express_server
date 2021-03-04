@@ -1,0 +1,24 @@
+{
+  "name": "react_w_express_server",
+  "version": "1.0.0",
+  "description": "<!--\r *** Thanks for checking out the Best-README-Template. If you have a suggestion\r *** that would make this better, please fork the repo and create a pull request\r *** or simply open an issue with the tag \"enhancement\".\r *** Thanks again! Now go create something AMAZING! :D\r ***\r ***\r ***\r *** To avoid retyping too much info. Do a search and replace for the following:\r *** github_username, repo_name, twitter_handle, email, project_title, project_description\r -->",
+  "main": "index.js",
+  "scripts": {
+    "server": "node server/./bin/www",
+    "client": "cd client && npm run start",
+    "build:client": "cd client && npm run build",
+    "iall": "npm i && cd client && npm i",
+    "startboth": "npm run server & npm run client"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infiniteoo/react_w_express_server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infiniteoo/react_w_express_server/issues"
+  },
+  "homepage": "https://github.com/infiniteoo/react_w_express_server#readme"
+}
